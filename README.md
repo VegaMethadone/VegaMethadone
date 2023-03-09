@@ -19,6 +19,8 @@
  
 </div>
 
+---
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VegaMethadone&theme=github_dark)
 
 <!--
