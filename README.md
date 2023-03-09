@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/Ta0UjU3ajbYAAAAd/space-what.gif"/>
+  <img src="https://media.tenor.com/Ta0UjU3ajbYAAAAd/space-what.gif" width="250"/>
 </div>
 
 <!--
