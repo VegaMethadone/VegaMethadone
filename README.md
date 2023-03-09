@@ -19,6 +19,8 @@
  
 </div>
 
+---
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?VegaMethadone=vn7n24fzkq&theme=github_dark)
 <!--
 **VegaMethadone/VegaMethadone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
