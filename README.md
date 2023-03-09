@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.tenor.com/Ta0UjU3ajbYAAAAd/space-what.gif"/>
+</div>
+
 
 <!--
 **VegaMethadone/VegaMethadone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
