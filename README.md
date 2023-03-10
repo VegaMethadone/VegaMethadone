@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VegaMethadone&show_icons=true&theme=radical)
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.tenor.com/Ta0UjU3ajbYAAAAd/space-what.gif" width="500"/>
 </div>
 
