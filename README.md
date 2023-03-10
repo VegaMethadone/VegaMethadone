@@ -21,19 +21,8 @@
 
 ---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VegaMethadone&theme=github_dark)
-
-Статистика языков в коммитах:
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VegaMethadone&theme=github_dark)
-
-Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VegaMethadone&theme=github_dark)
-
-Статистика профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VegaMethadone&theme=github_dark)
-
-Данные по коммитам за сутки:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VegaMethadone&theme=github_dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VegaMethadone)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VegaMethadone&show_icons=true&theme=radical)
 
 <!--
 **VegaMethadone/VegaMethadone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
