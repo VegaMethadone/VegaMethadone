@@ -26,8 +26,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VegaMethadone&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VegaMethadone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VegaMethadone&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
