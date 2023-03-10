@@ -1,5 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VegaMethadone&show_icons=true&theme=radical)
-<div id="header">
+
+<div id="header" aligin="center">
   <img src="https://media.tenor.com/Ta0UjU3ajbYAAAAd/space-what.gif" width="500"/>
 </div>
 
@@ -22,7 +22,7 @@
 
 ---
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VegaMethadone&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VegaMethadone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VegaMethadone&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
