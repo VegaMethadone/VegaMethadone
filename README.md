@@ -24,8 +24,7 @@
 ---
 
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=VegaMethadone&show_icons=true&count_private=true&theme=gotham&border_radius=30&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VegaMethadone&layout=compact&theme=gotham&border_radius=30&hide=pascal,c,jupyter%20notebook)](https://github.com/testpassword/github-readme-stats) |
-|---|---|
+
 
 
 
